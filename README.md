@@ -125,10 +125,6 @@ The same pipeline can be adapted to histology by replacing the synthetic dataset
 - class-wise Dice / IoU
 - uncertainty estimation
 
-## CV-ready description
-
-> Implemented an end-to-end semantic segmentation pipeline in PyTorch using a U-Net architecture, including reproducible data generation, combined BCE/Dice optimisation, Dice/IoU evaluation, inference, visualisation, and automated testing.
-
 ## License
 
 MIT
